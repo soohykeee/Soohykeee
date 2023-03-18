@@ -4,3 +4,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?env=PAT_1&username=soohykeee&theme=graywhite)](https://github.com/soohykeee?tab=repositories)
 <h1></h1>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soohykeee&layout=compact"><br><br>
