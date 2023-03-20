@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Soohykeee's%20GitHub!&fontSize=77&animation=fadeIn&fontAlignY=38&desc=Welcome!&descAlignY=51&descAlign=62)](https://soohykeee.tistory.com/)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Soohykeee's%20Study!&fontSize=77&animation=fadeIn&fontAlignY=38&desc=Coding!&descAlignY=51&descAlign=62)](https://soohykeee.tistory.com/)
 
 <!--
 <h3 align="center">📚 Tech Stack 📚</h3>
